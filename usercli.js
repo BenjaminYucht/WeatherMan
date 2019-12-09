@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var weathergetter=require('./weatherapi');
 var zipchecker = require('./zipcodecheckerapi');
 var zip =require('./zipcode');

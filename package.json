@@ -13,5 +13,8 @@
     "nodemon": "^2.0.1",
     "readline-sync": "^1.4.10",
     "request": "^2.88.0"
+  },
+  "bin": {
+    "weather": "./usercli.js"
   }
 }
